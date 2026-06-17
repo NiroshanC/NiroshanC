@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 3rd-year BSc student in **Electronics & Computer Science** at [Your University Name], Sri Lanka.
+I'm a 3rd-year BSc student in **Electronics & Computer Science** at University Of Kelaniya, Sri Lanka.
 
 My background uniquely spans both **hardware and software** — I design embedded systems and build software applications, which means I think about problems from silicon to server.
 
