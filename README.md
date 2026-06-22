@@ -101,14 +101,6 @@ My background uniquely spans both **hardware and software** — I design embedde
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- 📜 [Add your certifications here — Coursera, AWS, Google, etc.]
-- 🥇 [Add any hackathon wins, competition results, academic achievements]
-- 🌟 [Add any notable project recognition or community contributions]
-
----
-
 ## 🤝 Open Source Contributions
 
 <!-- Add your contributions here as you make them -->
